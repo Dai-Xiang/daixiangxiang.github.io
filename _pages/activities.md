@@ -26,7 +26,7 @@ author_profile: true
 + *CSCI2040: Introduction to Python*, CUHK, Fall 2024
 + *CSCI2040: Introduction to Python*, CUHK, Spring 2023
 + *CSCI2040: Introduction to Python*, CUHK, Fall 2023
-+ *CMSC5728: Decision Analysis \& Game Theory*, CUHK, Fall 2023
++ *CMSC5728: Decision Analysis & Game Theory*, CUHK, Fall 2023
 
 
 
