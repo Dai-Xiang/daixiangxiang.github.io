@@ -29,6 +29,6 @@ I am passionate about **online learning** theories, such as reinforcement learni
 + 2023,  &ensp; Xiaomi Special First-Class Scholarship\
   (With an invitation to visit Xiaomi Headquarters)
 
-## Internships and Research Experiences
+# Internships and Research Experiences
 + Intern at Huawei 2012 Lab as a member of "Huawei Brave Star" Program, Hangzhou, China; Leader: Distinguished Professor [Haibo Chen](https://ipads.se.sjtu.edu.cn/pub/members/haibo_chen) (ACM/IEEE Fellow, Huawei Fellow).	2024.06-2024.08
 + Research Intern of  Dr. [Peng Yang](http://faculty.hust.edu.cn/pyang/en) at Multimedia and Communication Network Center, Wuhan, China. 2020.09-2023.06
