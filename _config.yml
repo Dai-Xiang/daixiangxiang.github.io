@@ -12,7 +12,7 @@ title                    : "Xiangxiang Dai"
 title_separator          : "-"
 name                     : &name "Xiangxiang Dai"
 description              : &description "Phd Student at CUHK"
-url                      : https://zeyuzhangzyz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://xiangxdai.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xiangxdai/xiangxdai.github.io"
 
@@ -27,7 +27,7 @@ author:
   bio              : "PhD Student of CS at CUHK"
   location         : "Shatin, Hong Kong SAR"
   # employer         : "The Chinese University of Hong Kong"
-  # uri              : "https://zeyuzhangzyz.github.io/" # URL
+  # uri              : "https://xiangxdai.github.io/" # URL
   email            : "xiangxdai0@gmail.com"
 
   # Academic websites
