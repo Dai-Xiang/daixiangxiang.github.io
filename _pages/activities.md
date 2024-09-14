@@ -19,7 +19,7 @@ author_profile: true
 + International Conference on Learning Representations (ICLR) 2025
 
 # Talks
-+ "***Enhanced Economical Combinatorial Adaptation Framework for LLM***" \
++ ***Enhanced Economical Combinatorial Adaptation Framework for LLM*** \
    Sharing at Huawei Basic Software Innovation Lab, Online. 2024.03.
 
 # Teaching Assistantships
