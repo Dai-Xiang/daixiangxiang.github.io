@@ -18,9 +18,9 @@ author_profile: true
 + Neural Information Processing Systems (NeurIPS) 2024
 + International Conference on Learning Representations (ICLR) 2025
 
-# Talks
+# Invited Talks
 + ***Enhanced Economical Combinatorial Adaptation Framework for LLM*** \
-   Sharing at Huawei Basic Software Innovation Lab, Online. 2024.03.
+   Sharing at Huawei Basic Software Innovation Lab. 2024.03.
 
 # Teaching Assistantships
 + *CSCI2040: Introduction to Python*, CUHK, Fall 2024
