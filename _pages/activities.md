@@ -13,7 +13,10 @@ author_profile: true
 + IEEE Transactions on Knowledge and Data Engineering (TKDE)
 + IEEE/ACM Transactions on Networking (TON)
 + IEEE Internet of Things Journal (IoT-J)
-  
+
+## PC Member 
++ The Web Conference (WWW), 2025
+
 ## Conference Reviewer
 + Neural Information Processing Systems (NeurIPS) 2024
 + International Conference on Learning Representations (ICLR) 2025
