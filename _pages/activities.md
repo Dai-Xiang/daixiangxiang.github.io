@@ -11,7 +11,7 @@ author_profile: true
 # Academic Services
 ## Journal Reviewer
 + IEEE Transactions on Knowledge and Data Engineering (TKDE)
-+ IEEE/ACM Transactions on Networking (ToN)
++ IEEE/ACM Transactions on Networking (TON)
 + IEEE Internet of Things Journal (IoT-J)
   
 ## Conference Reviewer
