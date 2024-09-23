@@ -15,7 +15,7 @@ author_profile: true
 + IEEE Internet of Things Journal (IoT-J)
 
 ## PC Member 
-+ The Web Conference (WWW), 2025
++ The Web Conference (WWW) 2025
 
 ## Conference Reviewer
 + Neural Information Processing Systems (NeurIPS) 2024
