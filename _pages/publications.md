@@ -33,8 +33,8 @@ Accepted in the ACM Multimedia (**MM**), 2024. (1149/4385 = 26.2%, CCF A)<br>
 
 - **[IWQoS]** ***Quantifying the Merits of Network-Assist Online Learning in Optimizing Network Protocols***<br>
 **Xiangxiang Dai**\*, Zhiyong Wang\*, Jiancheng Ye, and John C.S. Lui.<br>
-Accepted in the IEEE/ACM International Symposium on Quality of Service (**IWQoS**), 2024. (81/326 = 24.8%, CCF B)<br>
-[[PDF]](https://xiangxdai.github.io/files/IWQoS24.pdf), [[Slides]](https://xiangxdai.github.io/files/Slides4IWQoS24.pdf)<br>
+Accepted in the IEEE/ACM International Symposium on Quality of Service (**IWQoS**), 2024. (81/326 = 24.8%, CCF B)<be>
+[[Link]](https://ieeexplore.ieee.org/document/10682895)  [[PDF]](https://xiangxdai.github.io/files/IWQoS24.pdf), [[Slides]](https://xiangxdai.github.io/files/Slides4IWQoS24.pdf)<br>
 
 
 - **[TII]** ***RESPIRE: Reducing Spatial–Temporal Redundancy for Efficient Edge-Based Industrial Video Analytics***<br>
