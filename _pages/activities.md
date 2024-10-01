@@ -20,6 +20,7 @@ author_profile: true
 ## Conference Reviewer
 + Neural Information Processing Systems (NeurIPS) 2024
 + International Conference on Learning Representations (ICLR) 2025
++ International Conference on Artificial Intelligence and Statistics (AISTATS) 2025
 
 # Invited Talks
 + ***Enhanced Economical Combinatorial Adaptation Framework for LLM*** \
