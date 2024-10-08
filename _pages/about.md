@@ -14,7 +14,7 @@ I am a Ph.D. student in [Advanced Networking and System Research Laboratory](htt
 
 # Research
 
-I am passionate about **online learning** theories, such as reinforcement learning and bandit algorithms, which enhance decision-making through continuous learning from new data and strategy adjustments. My focus also includes designing online learning algorithms for diverse applications like web recommendation systems, video analytics, computer networks, and large language models. I welcome opportunities for collaboration—please feel free to contact me.
+I am passionate about **online learning** theories, such as reinforcement learning and bandit algorithms, which enhance decision-making through continuous learning from new data and strategy adjustments. My focus also includes designing online learning algorithms for diverse applications like web recommendation systems, multimedia systems, computer networks, and large language models. I welcome opportunities for collaboration—please feel free to contact me.
 
 
 
