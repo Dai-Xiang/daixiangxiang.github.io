@@ -19,6 +19,7 @@ author_profile: true
 - **[Sigmetrics]** ***Combinatorial Logistic Banditss***<br>
 Xutong Liu, **Xiangxiang Dai**, Xuchuang Wang, Mohammad Hajiesmaili, John C.S. Lui.<br>
 Accepted in the ACM International Conference on Measurement and Modeling of Computer Systems (**Sigmetrics**), 2025. (20/110 = 18.2%, TH-CPL A)<br>
+[[arXiv]](https://arxiv.org/abs/2410.17075)
 
 - **[IWQoS]** ***Quantifying the Merits of Network-Assist Online Learning in Optimizing Network Protocols***<br>
 **Xiangxiang Dai**\*, Zhiyong Wang\*, Jiancheng Ye, and John C.S. Lui.<br>
