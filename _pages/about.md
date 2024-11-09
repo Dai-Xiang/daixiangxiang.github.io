@@ -14,11 +14,12 @@ I am a Ph.D. student in [Advanced Networking and System Research Laboratory](htt
 
 # Research
 
-I am passionate about **online learning** theories, such as reinforcement learning and bandit algorithms, which enhance decision-making through continuous learning from new data and strategy adjustments. My focus also includes designing online learning algorithms for diverse applications like web recommendation systems, multimedia systems, computer networks, and large language models. I welcome opportunities for collaboration—please feel free to contact me.
+I am passionate about data-driven online sequential decision-making under uncertainty, such as reinforcement learning and bandit algorithms, which enhance decision-making through continuous learning from new data and strategy adjustments. My focus also includes developing and refining online learning algorithms for diverse applications such as web recommendation systems, multimedia platforms, computer networks, and large language models. I aim to create efficient, scalable solutions with provable learning efficiency and strong generalizability guarantees in these areas. I welcome opportunities for collaboration—please feel free to contact me.
 
 
 
 # Selected Awards
++ 2024-2027, Huawei PhD Fellowship
 + 2023-2027,  &ensp; CUHK Vice-Chancellor's PhD Scholarship \
   (Only 30 PhD students in the whole university of CUHK)
 + 2022,  &ensp; Pacemaker to Merit Student \
