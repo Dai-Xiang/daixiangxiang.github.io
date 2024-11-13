@@ -37,11 +37,13 @@ Accepted in the IEEE/ACM International Symposium on Quality of Service (**IWQoS*
 - **[TKDE]** ***Conversational Recommendation with Online Learning and Clustering on Misspecified Users***<br>
 **Xiangxiang Dai**\*, Zhiyong Wang\*, Jize Xie, Xutong Liu, John C.S. Lui.<br>
  Accepted in the IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2024. (CCF A)<br>
+ [[Link]](https://ieeexplore.ieee.org/document/10586787)
 
 
 - **[TKDE]** ***Online Learning and Detecting Corrupted Users for Conversational Recommendation Systems***<br>
 **Xiangxiang Dai**\*, Zhiyong Wang\*, Jize Xie, Tong Yu, and John C.S. Lui.<br>
-Accepted in the IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2024. (CCF A)<be>
+Accepted in the IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2024. (CCF A)<br>
+ [[Link]](https://ieeexplore.ieee.org/document/10643701)
 
 - **[TII]** ***RESPIRE: Reducing Spatial–Temporal Redundancy for Efficient Edge-Based Industrial Video Analytics***<br>
 **Xiangxiang Dai**, Peng Yang, Xinyu Zhang, Zhewei Dai, and Li Yu.<br>
