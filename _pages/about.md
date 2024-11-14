@@ -19,7 +19,7 @@ I am passionate about data-driven online sequential decision-making under uncert
 
 
 # Selected Awards
-+ 2024-2027, Huawei PhD Fellowship
++ 2024-2027, &ensp; Huawei PhD Fellowship
 + 2023-2027,  &ensp; CUHK Vice-Chancellor's PhD Scholarship \
   (Only 30 PhD students in the whole university of CUHK)
 + 2022,  &ensp; Pacemaker to Merit Student \
@@ -31,6 +31,6 @@ I am passionate about data-driven online sequential decision-making under uncert
   (With an invitation to visit Xiaomi Headquarters)
 
 # Internships and Research Experiences
-+ Intern at Huawei 2012 Lab as a member of "Huawei Brave Star" Program, Hangzhou, China; Leader: Distinguished Professor [Haibo Chen](https://ipads.se.sjtu.edu.cn/pub/members/haibo_chen) (ACM/IEEE Fellow, Huawei Fellow).	2024.06-2024.08
-+ Research Intern of  Prof. [Chuan Wu](https://i.cs.hku.hk/~cwu/index.html) at the University of Hong Kong, Hong Kong, China. 2023.06-2023.08
-+ Research Intern of  Prof. [Peng Yang](http://faculty.hust.edu.cn/pyang/en) at Multimedia and Communication Network Center, Wuhan, China. 2020.09-2023.06
++ 2024.06-2024.08, &ensp; Intern at Huawei 2012 Lab as a member of "Huawei Brave Star" Program, Hangzhou, China; Leader: Distinguished Professor [Haibo Chen](https://ipads.se.sjtu.edu.cn/pub/members/haibo_chen) (ACM/IEEE Fellow, Huawei Fellow).	
++ 2023.06-2023.08, &ensp; Research Intern of  Prof. [Chuan Wu](https://i.cs.hku.hk/~cwu/index.html) at the University of Hong Kong, Hong Kong, China. 
++ 2020.09-2023.06, &ensp; Research Intern of  Prof. [Peng Yang](http://faculty.hust.edu.cn/pyang/en) at Multimedia and Communication Network Center, Wuhan, China. 
