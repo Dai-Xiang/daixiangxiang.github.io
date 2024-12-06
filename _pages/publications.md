@@ -35,7 +35,7 @@ Accepted in the IEEE/ACM International Symposium on Quality of Service (**IWQoS*
 
 # Journals:
 - **[ToN]** ***Variance-Aware Bandit Framework for Dynamic Probabilistic Maximum Coverage Problem with Triggered or Self-Reliant Arms***<br>
-**Xiangxiang Dai**, Xutong Liu#, Jinhang Zuo, Hong Xie, Carlee Joe-Wong, John C.S. Lui.<br>
+**Xiangxiang Dai**, Xutong Liu, Jinhang Zuo, Hong Xie, Carlee Joe-Wong, John C.S. Lui.<br>
 Accepted to IEEE/ACM Transactions on Networking (**ToN**), 2025.  (CCF A)<br>
 
 - **[TKDE]** ***Conversational Recommendation with Online Learning and Clustering on Misspecified Users***<br>
