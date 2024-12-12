@@ -16,7 +16,7 @@ author_profile: true
 **Xiangxiang Dai**, Jin Li, Xutong Liu, Anqi Yu, John C.S. Lui.<br>
 [[arXiv]](https://arxiv.org/abs/2405.16587)<br>
 
-- **[Sigmetrics]** ***Combinatorial Logistic Banditss***<br>
+- **[Sigmetrics]** ***Combinatorial Logistic Bandits***<br>
 Xutong Liu, **Xiangxiang Dai**, Xuchuang Wang, Mohammad Hajiesmaili, John C.S. Lui.<br>
 Accepted in the ACM International Conference on Measurement and Modeling of Computer Systems (**Sigmetrics**), 2025. (20/110 = 18.2%, TH-CPL A)<br>
 [[arXiv]](https://arxiv.org/abs/2410.17075)
