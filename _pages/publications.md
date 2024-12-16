@@ -18,7 +18,7 @@ author_profile: true
 
 - **[Sigmetrics]** ***Combinatorial Logistic Bandits***<br>
 Xutong Liu, **Xiangxiang Dai**, Xuchuang Wang, Mohammad Hajiesmaili, John C.S. Lui.<br>
-Accepted in the ACM International Conference on Measurement and Modeling of Computer Systems (**Sigmetrics**), 2025. (20/110 = 18.2%, TH-CPL A)<br>
+Accepted in the ACM International Conference on Measurement and Modeling of Computer Systems (**Sigmetrics**), 2025. (35/223 = 15.7%, TH-CPL A)<br>
 [[arXiv]](https://arxiv.org/abs/2410.17075)
 
 - **[ACM MM]** ***AxiomVision: Accuracy-Guaranteed Adaptive Visual Model Selection for Perspective-Aware Video Analytics***<br>
