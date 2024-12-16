@@ -21,10 +21,13 @@ author_profile: true
 + Neural Information Processing Systems (NeurIPS) 2024
 + International Conference on Learning Representations (ICLR) 2025
 + International Conference on Artificial Intelligence and Statistics (AISTATS) 2025
++ International Conference on Machine Learning (ICML) 2025
 
-# Invited Talks
+# Talks
++ ***Quantifying the Merits of Network-Assist Online Learning in Optimizing Network Protocols*** \
+   Sharing at The Hong Kong University of Science and Technology (Guangzhou), Guangzhou, China. 2024.06.
 + ***Enhanced Economical Combinatorial Adaptation Framework for LLM*** \
-   Sharing at Huawei Basic Software Innovation Lab. 2024.03.
+   Sharing at Huawei Basic Software Innovation Lab, Virtual. 2024.03.
 
 # Teaching Assistantships
 + *CSCI2040: Introduction to Python*, CUHK, Fall 2024
