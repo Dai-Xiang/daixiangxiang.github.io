@@ -24,7 +24,7 @@ Accepted in the ACM International Conference on Measurement and Modeling of Comp
 - **[ACM MM]** ***AxiomVision: Accuracy-Guaranteed Adaptive Visual Model Selection for Perspective-Aware Video Analytics***<br>
 **Xiangxiang Dai**, Zeyu Zhang, Peng Yang, Yuedong Xu, Xutong Liu, John C.S. Lui.<br>
 Accepted in the ACM Multimedia (**MM**), 2024. (1149/4385 = 26.2%, CCF A)<br>
-[[Link]](https://dl.acm.org/doi/10.1145/3664647.3681269) [[arXiv]](https://arxiv.org/abs/2407.20124), [[Poster]](https://xiangxdai.github.io/files/Poster4ACMMM24.pdf), [[Code]](https://github.com/zeyuzhangzyz/AxiomVision), [[ACM showcase on Kudos]](https://www.growkudos.com/publications/10.1145%25252F3664647.3681269/reader)<br>
+[[Link]](https://dl.acm.org/doi/10.1145/3664647.3681269), [[arXiv]](https://arxiv.org/abs/2407.20124), [[Poster]](https://xiangxdai.github.io/files/Poster4ACMMM24.pdf), [[Code]](https://github.com/zeyuzhangzyz/AxiomVision), [[ACM showcase on Kudos]](https://www.growkudos.com/publications/10.1145%25252F3664647.3681269/reader)<br>
 
 
 - **[IWQoS]** ***Quantifying the Merits of Network-Assist Online Learning in Optimizing Network Protocols***<br>
